@@ -83,7 +83,7 @@ class OticService : Service() {
         }
 
         val notification = NotificationCompat.Builder(applicationContext, "1")
-            .setSmallIcon(R.drawable.ic_launcher_background)
+            .setSmallIcon(R.drawable.app_icon)
             .setContentTitle("Streaming the audio...")
             .setContentText("Streaming on ${ipv4Address ?: "null"}:$serverPort")
             .setPriority(NotificationCompat.PRIORITY_HIGH).build()
