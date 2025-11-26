@@ -17,7 +17,7 @@ class OticVM(context: Context) : ViewModel() {
     }
 
     init {
-        allPermissionsGranted = OticService.permissions.any { permission ->
+        allPermissionsGranted = OticService.permissions.all { permission ->
             ContextCompat.checkSelfPermission(
                 context, permission
             ) == PackageManager.PERMISSION_GRANTED
