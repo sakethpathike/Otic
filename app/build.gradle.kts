@@ -45,6 +45,12 @@ android {
             freeCompilerArgs.add("-Xcontext-parameters")
         }
     }
+
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+
 }
 
 dependencies {
