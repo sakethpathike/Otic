@@ -69,4 +69,4 @@ Always start streaming from the app first, and then run the script. You might al
 
 ## Download
 
-[<img src="https://github.com/user-attachments/assets/a50513b3-dbf8-48c1-bff8-1f4215fefbb9" alt="Get it on GitHub" height="80">](https://github.com/sakethpathike/Otic/releases)
+[<img src="https://github.com/user-attachments/assets/a50513b3-dbf8-48c1-bff8-1f4215fefbb9" alt="Get it on GitHub" height="80">](https://github.com/sakethpathike/Otic/releases)  [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.sakethh.otic)
