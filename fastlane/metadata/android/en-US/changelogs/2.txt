@@ -1,0 +1,1 @@
+Otic now uses custom subsetting(s) from the Google Sans Flex font to reduce the app size.
